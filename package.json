@@ -1,0 +1,27 @@
+{
+  "name": "koa-bodyreceiver",
+  "version": "0.0.0",
+  "description": "a middleware to receive request body.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prezzemolo/koa-bodyreceiver.git"
+  },
+  "keywords": [
+    "koa",
+    "body"
+  ],
+  "author": "prezzemolo <git@prezzemolo.ga>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prezzemolo/koa-bodyreceiver/issues"
+  },
+  "homepage": "https://github.com/prezzemolo/koa-bodyreceiver#readme",
+  "devDependencies": {
+    "koa": "^2.2.0",
+    "standard": "10.0.2"
+  }
+}
