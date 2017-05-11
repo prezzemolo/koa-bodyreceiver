@@ -22,4 +22,4 @@ license
 [node]: https://nodejs.org/
 [node-badge]: https://img.shields.io/badge/node-%3E%3D%207.6.0-74aa63.svg?style=flat-square
 [koa]: http://koajs.com/
-[koa-badge]: https://img.shields.io/badge/koa-%3E%3D%202-67d4d4.svg?style=flat-square
+[koa-badge]: https://img.shields.io/badge/koa-2-67d4d4.svg?style=flat-square
