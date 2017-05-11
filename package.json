@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/prezzemolo/koa-bodyreceiver#readme",
   "devDependencies": {
-    "koa": "^2.2.0",
+    "koa": "2.2.0",
     "standard": "10.0.2"
   }
 }
